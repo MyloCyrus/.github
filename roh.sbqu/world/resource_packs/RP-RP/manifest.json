@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Example vanilla resource pack",
+    "name": "Vanilla Resource Pack",
+    "uuid": "2575408a-4353-48a7-ad94-afce49db7751",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 18, 0]
+  },
+  "modules": [
+    {
+      "description": "Example vanilla resource pack",
+      "type": "resources",
+      "uuid": "ad3d72d1-da49-4d57-9bb6-4bf81dac0772",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "blockception-minecraft-bedrock": [
+        "4.0.16"
+      ]
+    }
+  }
+}

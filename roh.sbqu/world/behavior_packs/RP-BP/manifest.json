@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Example vanilla behavior pack",
+    "name": "Vanilla Behavior Pack",
+    "uuid": "558fd403-57b7-4240-87f1-2428aa17754d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 18, 0]
+  },
+  "modules": [
+    {
+      "description": "Example vanilla behavior pack",
+      "type": "data",
+      "uuid": "9d1ca979-df19-4904-9826-08b784de8988",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "blockception-minecraft-bedrock": [
+        "4.0.16"
+      ]
+    }
+  }
+}
